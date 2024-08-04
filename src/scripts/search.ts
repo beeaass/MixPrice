@@ -1,31 +1,25 @@
 export function initSearch() {
-    document.getElementById("searchInput")?.addEventListener("keyup", function (event) {
-        let filter = (this as HTMLInputElement).value.toLowerCase();
-        let sections = document.querySelectorAll(".section");
-        let searchResults = document.getElementById("searchResults")?.querySelector("tbody");
+    const searchInput = document.getElementById("searchInput") as HTMLInputElement;
+    const searchResults = document.getElementById("searchResults");
+    const resultsBody = searchResults?.querySelector("tbody");
 
-        if (searchResults) {
-            searchResults.innerHTML = "";
-        }
-
-        if (filter === "") {
-            document.getElementById("searchResults")!.style.display = "none";
+    searchInput?.addEventListener("keyup", () => {
+        const filter = searchInput.value.trim().toLowerCase();
+        if (resultsBody) resultsBody.innerHTML = "";
+        if (!filter) {
+            searchResults?.style.setProperty("display", "none");
             return;
         }
 
-        let found = false;
-        sections.forEach((section) => {
-            let rows = section.querySelectorAll("tbody tr");
-            rows.forEach((row) => {
-                let text = row.textContent?.toLowerCase() || "";
-                if (text.indexOf(filter) > -1) {
-                    let resultRow = row.cloneNode(true) as HTMLTableRowElement;
-                    searchResults?.appendChild(resultRow);
-                    found = true;
-                }
-            });
-        });
+        const rows = Array.from(document.querySelectorAll(".section tbody tr"));
+        const matches = rows.filter(row => row.textContent?.toLowerCase().includes(filter));
 
-        document.getElementById("searchResults")!.style.display = found ? "table" : "none";
+        if (matches.length) {
+            matches.forEach(row => resultsBody?.appendChild(row.cloneNode(true)));
+            searchResults?.style.setProperty("display", "table");
+            window.scrollTo({ top: 0, behavior: "smooth" });
+        } else {
+            searchResults?.style.setProperty("display", "none");
+        }
     });
 }
