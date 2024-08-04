@@ -1,0 +1,65 @@
+{
+    "section": {
+      "id": "ChargePads",
+      "title": "Charge Pads",
+      "items": [
+        {
+          "name": "Static Charge Pad",
+          "image": "https://i.imgur.com/AYA1N6w.png",
+          "quantity": 1,
+          "cost": "3 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Crytalizor Charge Pad",
+          "image": "https://i.imgur.com/ev091FL.png",
+          "quantity": 1,
+          "cost": "7 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Lapotronic Charge Pad",
+          "image": "https://i.imgur.com/kYodYFN.png",
+          "quantity": 1,
+          "cost": "27 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Fission Charge Pad",
+          "image": "https://i.imgur.com/1vQHV2y.png",
+          "quantity": 1,
+          "cost": "45 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Crystalizor Upgrade Kit",
+          "image": "https://i.imgur.com/WnuuzCC.png",
+          "quantity": 1,
+          "cost": "≥ 3 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Lapotronic Upgrade Kit",
+          "image": "https://i.imgur.com/DV90UaA.png",
+          "quantity": 1,
+          "cost": "≥ 5 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Fission Upgrade Kit",
+          "image": "https://i.imgur.com/uqMIc3a.png",
+          "quantity": 1,
+          "cost": "≥ 4 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "MFS Unit Upgrade",
+          "image": "https://i.imgur.com/kgmvnsU.png",
+          "quantity": 1,
+          "cost": "≥ 4 урана",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        }
+      ]
+    }
+  }
+  

@@ -1,0 +1,253 @@
+{
+  "section": {
+    "id": "IndustrialCraft",
+    "title": "Industrial Craft",
+    "items": [
+      {
+        "name": "Телепортер",
+        "image": "https://i.imgur.com/hszz7DV.png",
+        "quantity": "1",
+        "cost": "≥6 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Катушка теслы",
+        "image": "https://i.imgur.com/FDJsQFj.png",
+        "quantity": "1",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Сейф",
+        "image": "https://i.imgur.com/EbtkfEj.png",
+        "quantity": "1",
+        "cost": "≥2 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Автосадовник",
+        "image": "https://i.imgur.com/AOFPltO.png",
+        "quantity": "1",
+        "cost": "≥3 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Бат-Бокс",
+        "image": "https://i.imgur.com/FMqJORA.png",
+        "quantity": "≤3",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Трансформатор НН",
+        "image": "https://i.imgur.com/qnrMUEN.png",
+        "quantity": "≤5",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Трансформатор СН",
+        "image": "https://i.imgur.com/3dQ3loJ.png",
+        "quantity": "≤3",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Трансформатор ВН",
+        "image": "https://i.imgur.com/I9tUtGn.png",
+        "quantity": "1",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "ЭХО/МФСУ",
+        "image": "https://i.imgur.com/gQi1XO7.png",
+        "quantity": "1",
+        "cost": "≥4 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МФЭ",
+        "image": "https://i.imgur.com/IkOhoQo.png",
+        "quantity": "1",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Улучшенный механизм",
+        "image": "https://i.imgur.com/fHLh3PT.png",
+        "quantity": "≤2",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Генератор",
+        "image": "https://i.imgur.com/hLoz5Tn.png",
+        "quantity": "≤2",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Геотермальный генератор",
+        "image": "https://i.imgur.com/ezU5CXM.png",
+        "quantity": "≤2",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Водяная мельница",
+        "image": "https://i.imgur.com/d4HnUWz.png",
+        "quantity": "≤2",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Ветряк",
+        "image": "https://i.imgur.com/zGPFAqs.png",
+        "quantity": "≤2",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Блок ректора",
+        "image": "https://i.imgur.com/sivGVWA.png",
+        "quantity": "≤3",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Ядерный реактор",
+        "image": "https://i.imgur.com/tshDOl7.png",
+        "quantity": "1",
+        "cost": "≥2 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Торговый автомат",
+        "image": "https://i.imgur.com/AgEcAPJ.png",
+        "quantity": "≤4",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Дробитель",
+        "image": "https://i.imgur.com/5xJwyjB.png",
+        "quantity": "≤2",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Электропечь",
+        "image": "https://i.imgur.com/mua9fuK.png",
+        "quantity": "≤2",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Компрессор",
+        "image": "https://i.imgur.com/AZVRxh8.png",
+        "quantity": "≤2",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Экстрактор",
+        "image": "https://i.imgur.com/7lCwtje.png",
+        "quantity": "≤2",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Утилизатор",
+        "image": "https://i.imgur.com/Zf4ix8o.png",
+        "quantity": "≤2",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Индукционаня печь",
+        "image": "https://i.imgur.com/j1lhx9L.png",
+        "quantity": "≤1",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Генератор материи",
+        "image": "https://i.imgur.com/fEuJn8i.png",
+        "quantity": "1",
+        "cost": "≥2 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Хмель",
+        "image": "https://i.imgur.com/goBzalH.png",
+        "quantity": "≤2",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Пиво бога",
+        "image": "https://i.imgur.com/KxTTdth.png",
+        "quantity": "1",
+        "cost": "≥16 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Земляной нарост",
+        "image": "https://i.imgur.com/7gHzSRX.png",
+        "quantity": "≤4",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Мультиранец",
+        "image": "https://i.imgur.com/7oo5qIg.png",
+        "quantity": "1",
+        "cost": "≥3 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Электрический реактивный ранец",
+        "image": "https://i.imgur.com/2m8M1LA.png",
+        "quantity": "1",
+        "cost": "≥2 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Нано-сабля",
+        "image": "https://imgur.com/W5FzC20.png",
+        "quantity": "1",
+        "cost": "≥2 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Нано-шлем",
+        "image": "https://imgur.com/X7Bwy7Z.png",
+        "quantity": "1",
+        "cost": "≥2 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Нано-кираса",
+        "image": "https://imgur.com/rICfmhv.png",
+        "quantity": "1",
+        "cost": "≥4 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Нано-поножи",
+        "image": "https://imgur.com/Sh2zPTk.png",
+        "quantity": "1",
+        "cost": "≥2 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Нано-ботинки",
+        "image": "https://imgur.com/eCyBFe3.png",
+        "quantity": "1",
+        "cost": "≥2 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      }
+    ]
+  }
+}

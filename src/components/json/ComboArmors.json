@@ -1,0 +1,36 @@
+{
+  "section": {
+    "id": "ComboArmors",
+    "title": "Combo Armors",
+    "items": [
+      {
+        "name": "Улучшенный Квантовый Шлем",
+        "image": "https://i.imgur.com/3oh5z2f.png",
+        "quantity": "1",
+        "cost": "≥ 10 уран. блоков",
+        "costImage": "https://i.imgur.com/w7KhpUV.png"
+      },
+      {
+        "name": "Квантовая кираса с электрическим реактивным ранцем и мультиранцем",
+        "image": "https://i.imgur.com/VLItJTM.png",
+        "quantity": "1",
+        "cost": "≥ 9 уран. блоков",
+        "costImage": "https://i.imgur.com/w7KhpUV.png"
+      },
+      {
+        "name": "Улучшенные квантовые поножи",
+        "image": "https://i.imgur.com/ZRrTkKQ.png",
+        "quantity": "1",
+        "cost": "≥ 7 уран. блоков",
+        "costImage": "https://i.imgur.com/w7KhpUV.png"
+      },
+      {
+        "name": "Электростатические квантовые ботинки",
+        "image": "https://i.imgur.com/WlenKUH.png",
+        "quantity": "1",
+        "cost": "≥ 7 уран. блоков",
+        "costImage": "https://i.imgur.com/w7KhpUV.png"
+      }
+    ]
+  }
+}

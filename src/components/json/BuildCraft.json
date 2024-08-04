@@ -1,0 +1,44 @@
+{
+    "section": {
+      "id": "BuildCraft",
+      "title": "BuildCraft",
+      "items": [
+        {
+          "name": "Редстоун - двигатель",
+          "image": "https://i.imgur.com/fHQVjkD.png",
+          "quantity": "≤ 19",
+          "cost": "≥ 1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Помпа",
+          "image": "https://i.imgur.com/Rv9Nr1r.png",
+          "quantity": "≤ 3",
+          "cost": "≥ 1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Капсула с нефтью",
+          "image": "https://i.imgur.com/zYcoNux.png",
+          "quantity": "≤ 16",
+          "cost": "≥ 1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Капсула с топливом",
+          "image": "https://i.imgur.com/jNgIhW1.png",
+          "quantity": "≤ 16",
+          "cost": "≥ 1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Капсула с любым др. топливом",
+          "image": "https://i.imgur.com/pR7bPKe.png",
+          "quantity": "≤ 16",
+          "cost": "≥ 1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        }
+      ]
+    }
+  }
+  

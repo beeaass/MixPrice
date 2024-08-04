@@ -1,0 +1,169 @@
+{
+  "section": {
+    "id": "AdvancedSolarPanel",
+    "title": "Advanced Solar Panel",
+    "items": [
+      {
+        "name": "Sunnarium part",
+        "image": "https://i.imgur.com/daBtlkM.png",
+        "quantity": "≤32",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Sunnarium",
+        "image": "https://i.imgur.com/lBCFiD9.png",
+        "quantity": "≤9",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Sunnarium Alloy",
+        "image": "https://i.imgur.com/cXFKlRs.png",
+        "quantity": "1",
+        "cost": "≥6 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Iridium Iron Plate",
+        "image": "https://i.imgur.com/7elLvi7.png",
+        "quantity": "≤4",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Reinforced Iridium Iron Plate",
+        "image": "https://i.imgur.com/Sdcqd1B.png",
+        "quantity": "1",
+        "cost": "≥8 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Irradiant Reinforced Plate",
+        "image": "https://i.imgur.com/xy6ZJPe.png",
+        "quantity": "1",
+        "cost": "≥8 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Слиток титана",
+        "image": "https://i.imgur.com/NwMJykE.png",
+        "quantity": "1",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Titanium Plate",
+        "image": "https://i.imgur.com/N3EppDj.png",
+        "quantity": "1",
+        "cost": "≥4 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Titanium Lense",
+        "image": "https://i.imgur.com/0nSDsfJ.png",
+        "quantity": "1",
+        "cost": "≥6 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Photon Buffer",
+        "image": "https://i.imgur.com/EQqZAqx.png",
+        "quantity": "1",
+        "cost": "≥20 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Quantum Processor Cooling",
+        "image": "https://i.imgur.com/2B7Pr24.png",
+        "quantity": "1",
+        "cost": "≥24 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Quantum Processor",
+        "image": "https://i.imgur.com/tHWQvHu.png",
+        "quantity": "1",
+        "cost": "≥24 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Moonlight Filter",
+        "image": "https://i.imgur.com/ipuPD8m.png",
+        "quantity": "1",
+        "cost": "≥8 уран. блоков",
+        "costImage": "https://i.imgur.com/w7KhpUV.png"
+      },
+      {
+        "name": "Solar Panel",
+        "image": "https://i.imgur.com/gsHl2G3.png",
+        "quantity": "1",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Advanced Solar Panel",
+        "image": "https://i.imgur.com/0ApatSb.png",
+        "quantity": "1",
+        "cost": "≥5 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Hybrid Solar Panel",
+        "image": "https://i.imgur.com/odFUO8M.png",
+        "quantity": "1",
+        "cost": "≥12 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Ultimate Solar Panel",
+        "image": "https://i.imgur.com/9jNvzIk.png",
+        "quantity": "1",
+        "cost": "≥9 уран. блоков",
+        "costImage": "https://i.imgur.com/w7KhpUV.png"
+      },
+      {
+        "name": "Quantum Solar Panel",
+        "image": "https://i.imgur.com/QPKLXh1.png",
+        "quantity": "1",
+        "cost": "≥8 конц. уран. блоков",
+        "costImage": "https://i.imgur.com/qN0F0Vv.png"
+      },
+      {
+        "name": "Solaris Titan Panel",
+        "image": "https://i.imgur.com/L8cyWHV.png",
+        "quantity": "1",
+        "cost": "≥32 конц. уран. блоков",
+        "costImage": "https://i.imgur.com/qN0F0Vv.png"
+      },
+      {
+        "name": "Eclipse Solar Panel",
+        "image": "https://i.imgur.com/VTjYtgd.png",
+        "quantity": "1",
+        "cost": "≥128 конц. уран. блоков",
+        "costImage": "https://i.imgur.com/qN0F0Vv.png"
+      },
+      {
+        "name": "Advanced Solar Helmet",
+        "image": "https://i.imgur.com/9YyGEhr.png",
+        "quantity": "1",
+        "cost": "≥6 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Hybrid Solar Helmet",
+        "image": "https://i.imgur.com/fUzLdkl.png",
+        "quantity": "1",
+        "cost": "≥18 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Ultimate Solar Helmet",
+        "image": "https://i.imgur.com/jZsSmWP.png",
+        "quantity": "1",
+        "cost": "≥10 уран. блоков",
+        "costImage": "https://i.imgur.com/w7KhpUV.png"
+      }
+    ]
+  }
+}

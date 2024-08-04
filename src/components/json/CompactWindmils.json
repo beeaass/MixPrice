@@ -1,0 +1,64 @@
+{
+  "section": {
+    "id": "CompactWindmils",
+    "title": "Compact Windmils",
+    "items": [
+      {
+        "name": "Ветряк сверхнизкого напряжения (СНН)",
+        "image": "https://i.imgur.com/6bXkuK5.png",
+        "quantity": "1",
+        "cost": "≥ 2 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Ветряк низкого напряжения (НН)",
+        "image": "https://i.imgur.com/CaYp6u9.png",
+        "quantity": "1",
+        "cost": "≥ 7 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Ветряк среднего напряжения (СН)",
+        "image": "https://i.imgur.com/3nRpJUq.png",
+        "quantity": "1",
+        "cost": "≥ 22 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Ветряк высокого напряжения (ВН)",
+        "image": "https://i.imgur.com/H9K2dJQ.png",
+        "quantity": "1",
+        "cost": "≥ 9 уран. блоков",
+        "costImage": "https://i.imgur.com/w7KhpUV.png"
+      },
+      {
+        "name": "Ветряк сверхвысокого напряжения (СВН)",
+        "image": "https://i.imgur.com/MbqsVkK.png",
+        "quantity": "1",
+        "cost": "≥ 34 уран. блоков",
+        "costImage": "https://i.imgur.com/w7KhpUV.png"
+      },
+      {
+        "name": "Ветряк квантового напряжения (КН)",
+        "image": "https://i.imgur.com/7EmDjdL.png",
+        "quantity": "1",
+        "cost": "≥ 15 конц. уран. блоков",
+        "costImage": "https://i.imgur.com/qN0F0Vv.png"
+      },
+      {
+        "name": "Композитный ротор",
+        "image": "https://i.imgur.com/i7DlwUA.png",
+        "quantity": "1",
+        "cost": "≥ 1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Иридиевый ротор",
+        "image": "https://i.imgur.com/NAPsQWv.png",
+        "quantity": "1",
+        "cost": "≥ 4 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+    "section": {
+      "id": "BaseResource",
+      "title": "Базовые ресурсы",
+      "items": [
+        {
+          "name": "Иридий",
+          "image": "https://i.imgur.com/Wo4cBEi.png",
+          "quantity": "≤ 9",
+          "cost": "1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Материя",
+          "image": "https://i.imgur.com/Ij81dlo.png",
+          "quantity": "≤ 64",
+          "cost": "≥ 1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Резина",
+          "image": "https://i.imgur.com/k42AmrL.png",
+          "quantity": "≤ 16 - 32",
+          "cost": "≥ 1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Изумрудная руда",
+          "image": "https://i.imgur.com/jgJE7QN.png",
+          "quantity": "1",
+          "cost": "≤ 64 материи",
+          "costImage": "https://i.imgur.com/Ij81dlo.png"
+        },
+        {
+          "name": "Алмазная руда",
+          "image": "https://i.imgur.com/u4Odckw.png",
+          "quantity": "1",
+          "cost": "≤ 32 материи",
+          "costImage": "https://i.imgur.com/Ij81dlo.png"
+        },
+        {
+          "name": "Редстоун руда",
+          "image": "https://i.imgur.com/1j2sy9i.png",
+          "quantity": "1",
+          "cost": "≤ 21 материя",
+          "costImage": "https://i.imgur.com/Ij81dlo.png"
+        },
+        {
+          "name": "Лазуритовая руда",
+          "image": "https://i.imgur.com/pN0zHxO.png",
+          "quantity": "1",
+          "cost": "≤ 21 материя",
+          "costImage": "https://i.imgur.com/Ij81dlo.png"
+        },
+        {
+          "name": "Угольная руда",
+          "image": "https://i.imgur.com/seLBwKN.png",
+          "quantity": "1",
+          "cost": "≤ 13 материи",
+          "costImage": "https://i.imgur.com/Ij81dlo.png"
+        },
+        {
+          "name": "Кварцевая руда",
+          "image": "https://i.imgur.com/ogTbgqx.png",
+          "quantity": "1",
+          "cost": "≤ 8 материи",
+          "costImage": "https://i.imgur.com/Ij81dlo.png"
+        },
+        {
+          "name": "Крепкая кварцевая руда",
+          "image": "https://i.imgur.com/j0yPkWg.png",
+          "quantity": "1",
+          "cost": "≤ 4 материи",
+          "costImage": "https://i.imgur.com/Ij81dlo.png"
+        },
+        {
+          "name": "Бронзовый слиток",
+          "image": "https://i.imgur.com/OQNoooT.png",
+          "quantity": "≤ 32",
+          "cost": "1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Медный слиток",
+          "image": "https://i.imgur.com/pS7CDp6.png",
+          "quantity": "≤ 64",
+          "cost": "1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Оловянный слиток",
+          "image": "https://i.imgur.com/PHnlhlw.png",
+          "quantity": "≤ 64",
+          "cost": "1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Железный слиток",
+          "image": "https://i.imgur.com/ZXbPzm8.png",
+          "quantity": "≤ 48",
+          "cost": "1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Золотой слиток",
+          "image": "https://i.imgur.com/eP5ZulQ.png",
+          "quantity": "≤ 48",
+          "cost": "1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Кварц",
+          "image": "https://i.imgur.com/5UsrSyR.png",
+          "quantity": "≤ 48",
+          "cost": "1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Светящаяся пыль",
+          "image": "https://i.imgur.com/tKrAasj.png",
+          "quantity": "≤ 48 - 64",
+          "cost": "1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Уголь",
+          "image": "https://i.imgur.com/iwbqI1s.png",
+          "quantity": "≤ 64",
+          "cost": "1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Лазурит",
+          "image": "https://i.imgur.com/VrL0Okt.png",
+          "quantity": "≤ 64",
+          "cost": "1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Редстоун пыль",
+          "image": "https://i.imgur.com/xhYYfPK.png",
+          "quantity": "≤ 64",
+          "cost": "1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Изумруд",
+          "image": "https://i.imgur.com/kTB1wrp.png",
+          "quantity": "≤ 3",
+          "cost": "1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Алмаз",
+          "image": "https://i.imgur.com/mNiqsYJ.png",
+          "quantity": "≤ 7",
+          "cost": "1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Золотая руда",
+          "image": "https://i.imgur.com/8KhDQDS.png",
+          "quantity": "≤ 25",
+          "cost": "1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Железная руда",
+          "image": "https://i.imgur.com/3jAIhLq.png",
+          "quantity": "≤ 25",
+          "cost": "1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Оловянная руда",
+          "image": "https://i.imgur.com/QuUX5ff.png",
+          "quantity": "≤ 48",
+          "cost": "1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        },
+        {
+          "name": "Медная руда",
+          "image": "https://i.imgur.com/SM8HthB.png",
+          "quantity": "≤ 48",
+          "cost": "1 уран",
+          "costImage": "https://i.imgur.com/nZU2JeH.png"
+        }
+      ]
+    }
+  }
+  

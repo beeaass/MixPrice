@@ -1,0 +1,78 @@
+{
+  "section": {
+    "id": "GraviSuite",
+    "title": "Gravitation Suite",
+    "items": [
+      {
+        "name": "Гравитационный нагрудник",
+        "image": "https://i.imgur.com/Bv7prcg.png",
+        "quantity": "1",
+        "cost": "≥48 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Совершенный мультиранец",
+        "image": "https://i.imgur.com/6sKooLi.png",
+        "quantity": "1",
+        "cost": "≥9 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Сверхпроводник",
+        "image": "https://i.imgur.com/pa6IpVW.png",
+        "quantity": "1",
+        "cost": "≥2 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Разрушитель/Ваджра",
+        "image": "https://i.imgur.com/t2sfEbV.png",
+        "quantity": "1",
+        "cost": "≥63 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Продвинутый алмазный бур",
+        "image": "https://i.imgur.com/EMOhpb4.png",
+        "quantity": "1",
+        "cost": "≥3 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Продвинутая электропила",
+        "image": "https://i.imgur.com/nzM6oRd.png",
+        "quantity": "1",
+        "cost": "≥2 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Улучшеный мультиранец",
+        "image": "https://i.imgur.com/iuZMgoA.png",
+        "quantity": "1",
+        "cost": "≥3 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Улучшенный реактивный ранец",
+        "image": "https://i.imgur.com/F2XQQGJ.png",
+        "quantity": "1",
+        "cost": "≥4 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Грави - инструмент",
+        "image": "https://i.imgur.com/STztpTX.png",
+        "quantity": "1",
+        "cost": "≥3 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Улучшенный нано-нагрудник",
+        "image": "https://i.imgur.com/jzfRqal.png",
+        "quantity": "1",
+        "cost": "≥6 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      }
+    ]
+  }
+}

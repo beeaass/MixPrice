@@ -1,0 +1,281 @@
+{
+  "section": {
+    "id": "AppliedEnergistics",
+    "title": "Applied Energistics",
+    "items": [
+      {
+        "name": "Крепкая кварцевая руда",
+        "image": "https://i.imgur.com/j0yPkWg.png",
+        "quantity": "1",
+        "cost": "3 кристалла кварца",
+        "costImage": "https://i.imgur.com/W2gtoTk.png"
+      },
+      {
+        "name": "Крепкая кварцевая руда",
+        "image": "https://i.imgur.com/j0yPkWg.png",
+        "quantity": "2",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Кристалл кварца",
+        "image": "https://i.imgur.com/W2gtoTk.png",
+        "quantity": "16",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Кварцевая пыль",
+        "image": "https://i.imgur.com/lxIz5uv.png",
+        "quantity": "16",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Конвертирующая матрица",
+        "image": "https://i.imgur.com/PwlWrio.png",
+        "quantity": "1",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Беспроводной приёмник",
+        "image": "https://i.imgur.com/3vaxrr6.png",
+        "quantity": "1",
+        "cost": "≥2 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Незаконченный стандартный процессор",
+        "image": "https://i.imgur.com/31IELWD.png",
+        "quantity": "2",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ стандартный процессор",
+        "image": "https://i.imgur.com/jdUxYhi.png",
+        "quantity": "2",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Незаконченный улучшенный процессор",
+        "image": "https://i.imgur.com/mLdM965.png",
+        "quantity": "1",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ улучшенный процессор",
+        "image": "https://i.imgur.com/nzzaSTi.png",
+        "quantity": "1",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ кабель",
+        "image": "https://i.imgur.com/sNGsvts.png",
+        "quantity": "8",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ точная импортирующая шина",
+        "image": "https://i.imgur.com/jKugIRv.png",
+        "quantity": "1",
+        "cost": "≥4 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ точная экспортирующая шина",
+        "image": "https://i.imgur.com/OJ33vXp.png",
+        "quantity": "1",
+        "cost": "≥4 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ интерактивная шина импорта",
+        "image": "https://i.imgur.com/BQN1hNN.png",
+        "quantity": "1",
+        "cost": "≥5 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ интерактивная шина экспорта",
+        "image": "https://i.imgur.com/ibcnXJd.png",
+        "quantity": "1",
+        "cost": "≥5 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ шина взаимодействия",
+        "image": "https://i.imgur.com/Y37Zsus.png",
+        "quantity": "1",
+        "cost": "≥4 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ интерактивная шина взаимодействия",
+        "image": "https://i.imgur.com/INH7WtP.png",
+        "quantity": "1",
+        "cost": "≥5 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ излучатель сигнала",
+        "image": "https://i.imgur.com/che2ihS.png",
+        "quantity": "1",
+        "cost": "≥3 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ монитор",
+        "image": "https://i.imgur.com/Gpotemm.png",
+        "quantity": "1",
+        "cost": "≥4 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ сборочный монитор",
+        "image": "https://i.imgur.com/ocV6OxK.png",
+        "quantity": "1",
+        "cost": "≥4 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ терминал доступа",
+        "image": "https://i.imgur.com/wclwSqB.png",
+        "quantity": "1",
+        "cost": "≥4 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ точка беспроводного доступа",
+        "image": "https://i.imgur.com/7bTZDfl.png",
+        "quantity": "1",
+        "cost": "≥4 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ беспроводная точка доступа",
+        "image": "https://i.imgur.com/XIgCpIT.png",
+        "quantity": "1",
+        "cost": "≥9 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "Усилитель сигнала",
+        "image": "https://i.imgur.com/nMsRFLe.png",
+        "quantity": "≤5",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ контроллер",
+        "image": "https://i.imgur.com/yM5hdGn.png",
+        "quantity": "1",
+        "cost": "≥3 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ сундук",
+        "image": "https://i.imgur.com/zhWRrXA.png",
+        "quantity": "1",
+        "cost": "≥5 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ привод",
+        "image": "https://i.imgur.com/EfEhNfb.png",
+        "quantity": "1",
+        "cost": "≥2 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ интерфейс",
+        "image": "https://i.imgur.com/YcNIWhE.png",
+        "quantity": "1",
+        "cost": "≥4 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ кодировщик шаблонов",
+        "image": "https://i.imgur.com/FkkH82c.png",
+        "quantity": "1",
+        "cost": "≥4 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ корпус сборочного цеха",
+        "image": "https://i.imgur.com/Ejhan8d.png",
+        "quantity": "4",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ тепловыводящий элемент",
+        "image": "https://i.imgur.com/oV9TbTu.png",
+        "quantity": "≤3",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ сборочный процессор",
+        "image": "https://i.imgur.com/RJ4gkvE.png",
+        "quantity": "1",
+        "cost": "≥3 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ поставщик шаблонов",
+        "image": "https://i.imgur.com/pJhfSMS.png",
+        "quantity": "1",
+        "cost": "≥6 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ шаблон крафта",
+        "image": "https://i.imgur.com/yVXl8IL.png",
+        "quantity": "≤5",
+        "cost": "≥1 уран",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ 1k хранилище",
+        "image": "https://i.imgur.com/pgvGGLR.png",
+        "quantity": "1",
+        "cost": "≥4 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ 4k хранилище",
+        "image": "https://i.imgur.com/UQ4ltwd.png",
+        "quantity": "1",
+        "cost": "≥8 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ 16k хранилище",
+        "image": "https://i.imgur.com/CVVYLuW.png",
+        "quantity": "1",
+        "cost": "≥16 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ 64k хранилище",
+        "image": "https://i.imgur.com/k7Eux81.png",
+        "quantity": "1",
+        "cost": "≥32 урана",
+        "costImage": "https://i.imgur.com/nZU2JeH.png"
+      },
+      {
+        "name": "МЭ 512k Хранилище материи",
+        "image": "https://i.imgur.com/zKGGBko.png",
+        "quantity": "1",
+        "cost": "≥15 уран. блоков",
+        "costImage": "https://i.imgur.com/w7KhpUV.png"
+      }
+    ]
+  }
+}
