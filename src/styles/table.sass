@@ -1,0 +1,57 @@
+.section
+  max-width: 900px
+  margin: 30px auto
+  padding: 30px
+  background-color: var(--bg-color)
+  border-radius: 20px
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2)
+  transition: background-color 0.3s, box-shadow 0.3s
+
+.section h1
+  text-align: center
+  margin-bottom: 30px
+  font-size: 2rem
+  color: var(--text-color)
+
+[data-theme='dark'] .section h1
+  color: var(--text-light)
+
+table
+  width: 100%
+  border-collapse: collapse
+  margin: 30px 0
+  background-color: var(--bg-color)
+  border-radius: 8px
+  overflow: hidden
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1)
+
+thead
+  background-color: var(--table-header-bg)
+  color: var(--text-color)
+
+thead th
+  padding: 15px 20px
+  border-bottom: 1px solid var(--border-color)
+  text-align: left
+
+tbody
+  color: var(--text-color)
+
+tbody tr
+  border-bottom: 1px solid var(--border-color)
+
+tbody tr:nth-child(odd)
+  background-color: var(--bg-color)
+
+tbody tr:hover
+  background-color: var(--table-row-hover-bg)
+
+tbody td
+  padding: 15px 20px
+  text-align: left
+  vertical-align: middle
+  font-size: 14px
+
+td img
+  vertical-align: middle
+  margin-right: 10px

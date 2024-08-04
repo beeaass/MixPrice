@@ -1,0 +1,61 @@
+.sidebar
+  display: flex
+  align-items: center
+  margin: 0 auto
+  position: relative
+
+.sidebar ul
+  list-style: none
+  padding: 0
+  margin: 0
+  display: flex
+  align-items: center
+
+.sidebar ul li
+  margin: 0 10px
+  position: relative
+
+.sidebar ul li a
+  display: flex
+  align-items: center
+  text-decoration: none
+  color: var(--text-color)
+
+.sidebar ul li a img
+  width: 40px
+  height: 40px
+  transition: transform 0.3s
+
+.sidebar ul li a img:hover
+  transform: scale(1.1)
+
+.sidebar ul li span
+  display: none
+  position: absolute
+  bottom: -60px
+  left: 50%
+  transform: translateX(-50%)
+  background-color: var(--tooltip-bg)
+  color: var(--tooltip-text-color)
+  padding: 10px 15px 
+  border-radius: 10px
+  font-size: 13px
+  white-space: nowrap
+  opacity: 0
+  visibility: hidden
+  transition: opacity 0.3s, visibility 0.3s
+  z-index: 100
+
+.sidebar ul li span::before
+  position: absolute
+  top: -10px
+  left: 50%
+  transform: translateX(-50%)
+  border-width: 10px
+  border-style: solid
+  border-color: transparent transparent var(--tooltip-bg) transparent
+
+.sidebar ul li:hover span
+  display: block
+  opacity: 1
+  visibility: visible
