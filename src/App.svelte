@@ -6,4 +6,4 @@
 
 <Header />
 <SearchResults />
-<Table jsonFilePath="/src/components/json/Table.json" />
+<Table jsonFilePath="Table.json" />
